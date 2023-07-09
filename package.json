@@ -14,5 +14,6 @@
 	},
 	"dependencies": {
 		"vercel": "^24.2.3"
+		"rimraf": "^5.0.0"
 	}
 }
